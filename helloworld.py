@@ -3,7 +3,8 @@ print("hi world!")
 print("hi second world!")
 
 def print_hello():
-    print("Hello!")
+    print("Bye!!")
 
 def print_world():
-    print("world")
+    print("world world!")
+
